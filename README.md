@@ -59,7 +59,7 @@ http://www.servicemesh.cn/
 | 2017-10 |  [Kubernetes, Microservices, and Istio  — A Great Fit!](https://thenewstack.io/kubernetes-microservices-istio%E2%80%8A-%E2%80%8Aa-great-fit/)  | Animesh Singh  |  |  |
 | 2017-09 |   [什么是Service Mesh（服务网格）](https://jimmysong.io/posts/what-is-a-service-mesh/)  |  宋净超  |  |  |
 | 2017-09 |   [服务网格新生代--Istio](https://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=2652136078&idx=1&sn=b261631ffe4df0638c448b0c71497021&chksm=84d532b4b3a2bba2c1ed22a62f4845eb9b6f70f92ad9506036200f84220d9af2e28639a22045&scene=21#wechat_redirect)  | 敖小剑   |  | 线上分享实录 |
-| 2017-09|   [What is Istio? It’s a service mesh. Great. What’s a service mesh?](https://www.mirantis.com/blog/what-is-istio-its-a-service-mesh-whats-a-service-mesh/)  |  Nick Chase  |  | 访谈录 |
+| 2017-09|   [What is Istio? It’s a service mesh. Great. What’s a service mesh?](https://www.mirantis.com/blog/what-is-istio-its-a-service-mesh-whats-a-service-mesh/)  |  Nick Chase  | [什么是Istio? 它是服务网格。棒极了，那什么是服务网格？](https://my.oschina.net/u/2562868/blog/1563506)  | 访谈录 |
 | 2017-05|  [Google, IBM and Lyft launch Istio, an open-source platform for managing and securing microservices](https://techcrunch.com/2017/05/24/google-ibm-and-lyft-launch-istio-an-open-source-platform-for-managing-and-securing-microservices/?utm_source=tuicool&utm_medium=referral)   |  Frederic Lardinois   | [Istio开源平台发布，Google、IBM和Lyft分别承担什么角色？](https://www.leiphone.com/news/201705/RwRlyAs7Mi8pqhSb.html) |  |
 | 2017-05|  [Google, IBM, Lyft partner on open source microservices management platform Istio](https://www.techrepublic.com/article/google-ibm-lyft-partner-on-open-source-microservices-management-platform-istio/)   |  Conner Forrest   |  | _ |
 
