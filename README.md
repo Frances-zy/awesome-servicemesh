@@ -37,16 +37,16 @@ http://www.servicemesh.cn/
 
 ## Tool
 
-- [在线体验istio](https://katacoda.com/courses/istio/): ![](images/new_red.png) 实测可用
+- [在线体验istio](https://katacoda.com/courses/istio/): 实测可用 ![](images/new_red.png) 
 
 ## ServiceMesh
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
-| 2017-08 |  [Application Network Functions With ESBs, API Management, and Now.. Service Mesh?](http://blog.christianposta.com/microservices/application-network-functions-with-esbs-api-management-and-now-service-mesh/)  | Christian Posta   | ![](images/new_red.png) [应用网络功能，EBS，API管理，而现在..Service Mesh?](https://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660396277&idx=1&sn=e3fd0e49b4947e80fbfd3cdd781bad96&chksm=f7424e13c035c705401b08795eb5c494cd1001c39760bc603c377f550f999d5dc8355229b2f9&mpshare=1&scene=1&srcid=1108KXT47jsSir7gXXN7x1yj&pass_ticket=5n8O9dw5nrNWdp91I1Ex8q0wFqwN7oHELYvWuTB%2BJGXvmM0y3ASvIhOn%2FU9zG29J#rd) |  |
 | 2017-10 |   [Service Mesh：下一代微服务](https://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=2652136254&idx=1&sn=bba9bbd24ac8e5c1f6ef5d1125a6975b&chksm=84d53304b3a2ba12f88675c1bf51973aa1210d174da9e6c2ddcd1f3c84ec7e25987b3bce1071&mpshare=1&scene=1&srcid=1020GPmfbEVP9QDNlZBHg47I&pass_ticket=vR63tjXqn9DTRAEWRKRMIB8O1ybqCamYyCza7%2BE5YRJRfpf%2F5OwphFKHGOiDiS6u#rd)  | 敖小剑   |  | QCON演讲实录 |
 | 2017-09 |   [再谈 Kubernetes，微服务以及 Service Mesh](http://baijiahao.baidu.com/s?id=1579758778464216551)  |    |  |  |
 | 2017-08|   [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html)  | Phil Calçado | [模式之服务网格](http://www.infoq.com/cn/articles/pattern-service-mesh?from=awesome-servicemesh) | 详细介绍Service Mesh模式和演进过程，强烈推荐 |
+| 2017-08 |  [Application Network Functions With ESBs, API Management, and Now.. Service Mesh?](http://blog.christianposta.com/microservices/application-network-functions-with-esbs-api-management-and-now-service-mesh/)  | Christian Posta   | [应用网络功能，EBS，API管理，而现在..Service Mesh?](https://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660396277&idx=1&sn=e3fd0e49b4947e80fbfd3cdd781bad96&chksm=f7424e13c035c705401b08795eb5c494cd1001c39760bc603c377f550f999d5dc8355229b2f9&mpshare=1&scene=1&srcid=1108KXT47jsSir7gXXN7x1yj&pass_ticket=5n8O9dw5nrNWdp91I1Ex8q0wFqwN7oHELYvWuTB%2BJGXvmM0y3ASvIhOn%2FU9zG29J#rd) ![](images/new_red.png)  |  |
 | 2017-07| ![](images/ppt.png)  [O'Reilly 2017: "Introduction to Service Meshes"](https://www.slideshare.net/dbryant_uk/oreilly-2017-introduction-to-service-meshes)  | Daniel Bryant |  | 演讲的PPT |
 | 2017-04|   [What’s a service mesh? And why do I need one?](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)  |  William Morgan  | [service mesh是什么?为什么需要它?](https://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660396253&idx=1&sn=23bcb3d38df84be8b9b5df7e39ee6d85&chksm=f7424e3bc035c72dfbfdd9ef53820480bf0dd030d0254595375b56fc1118db9409f68ad76a5d&mpshare=1&scene=1&srcid=1101TYj2y52WpCoPLXStvFUI&pass_ticket=o6AOX6wm32FSSN5wNy1rKIRcG39Laxov7Yad4HWQRefg952a0F5sYX%2BLACW9SFXy#rd) | 应该是业界第一篇详细介绍Service Mesh理念的文章，强烈推荐 |
 
@@ -55,7 +55,7 @@ http://www.servicemesh.cn/
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
-| 2017-11 | ![](images/ppt.png) [8 Steps to Becoming Awesome with Kubernetes](https://docs.google.com/presentation/d/1ij64THksTygvifW5BD-n0ipc6MDF4cGBRQcV3BRYaoM/edit#slide=id.g12c8aac1e6_0_890)  | Burr Sutter  |  | [PPT国内下载（免翻墙）](http://www.servicemesh.cn/?/article/11?notification_id=34&item_id=4) |
+| 2017-11 | ![](images/ppt.png) [8 Steps to Becoming Awesome with Kubernetes](https://docs.google.com/presentation/d/1ij64THksTygvifW5BD-n0ipc6MDF4cGBRQcV3BRYaoM/edit#slide=id.g12c8aac1e6_0_890) ![](images/new_red.png)  | Burr Sutter  |  | [PPT国内下载（免翻墙）](http://www.servicemesh.cn/?/article/11?notification_id=34&item_id=4) |
 | 2017-10 |  [Kubernetes, Microservices, and Istio  — A Great Fit!](https://thenewstack.io/kubernetes-microservices-istio%E2%80%8A-%E2%80%8Aa-great-fit/)  | Animesh Singh  |  |  |
 | 2017-09 |   [什么是Service Mesh（服务网格）](https://jimmysong.io/posts/what-is-a-service-mesh/)  |  宋净超  |  |  |
 | 2017-09 |   [服务网格新生代--Istio](https://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=2652136078&idx=1&sn=b261631ffe4df0638c448b0c71497021&chksm=84d532b4b3a2bba2c1ed22a62f4845eb9b6f70f92ad9506036200f84220d9af2e28639a22045&scene=21#wechat_redirect)  | 敖小剑   |  | 线上分享实录 |
