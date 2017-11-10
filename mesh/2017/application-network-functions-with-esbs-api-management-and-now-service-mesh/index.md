@@ -1,4 +1,4 @@
-# 应用网络功能，EBS，API管理，而现在..Service Mesh?
+# 应用网络功能，ESB，API管理，而今..Service Mesh?
 
 tags: Christian Posta
 
