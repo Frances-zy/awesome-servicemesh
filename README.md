@@ -37,7 +37,8 @@ http://www.servicemesh.cn/
 
 ## Tool
 
-- [在线体验istio](https://katacoda.com/courses/istio/): 实测可用 ![](images/new_red.png) 
+- [在线体验istio](https://katacoda.com/courses/istio/): 实测可用 ![](images/new_red.png)
+- [istio-workshop](https://github.com/retroryan/istio-workshop) ![](images/new_red.png)
 
 ## ServiceMesh
 
