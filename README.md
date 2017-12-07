@@ -42,9 +42,8 @@ http://www.servicemesh.cn/
 | 2017-10 |   [Service Mesh：下一代微服务](https://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=2652136254&idx=1&sn=bba9bbd24ac8e5c1f6ef5d1125a6975b&chksm=84d53304b3a2ba12f88675c1bf51973aa1210d174da9e6c2ddcd1f3c84ec7e25987b3bce1071&mpshare=1&scene=1&srcid=1020GPmfbEVP9QDNlZBHg47I&pass_ticket=vR63tjXqn9DTRAEWRKRMIB8O1ybqCamYyCza7%2BE5YRJRfpf%2F5OwphFKHGOiDiS6u#rd)  | 敖小剑   |  | QCON演讲实录 |
 | 2017-08|   [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html)  | Phil Calçado | [模式之服务网格](http://www.infoq.com/cn/articles/pattern-service-mesh?from=awesome-servicemesh) | 详细介绍Service Mesh模式和演进过程，强烈推荐 |
 | 2017-08 |  [Application Network Functions With ESBs, API Management, and Now.. Service Mesh?](http://blog.christianposta.com/microservices/application-network-functions-with-esbs-api-management-and-now-service-mesh/)  | Christian Posta   | [应用网络功能，EBS，API管理，而现在..Service Mesh?](https://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660396277&idx=1&sn=e3fd0e49b4947e80fbfd3cdd781bad96&chksm=f7424e13c035c705401b08795eb5c494cd1001c39760bc603c377f550f999d5dc8355229b2f9&mpshare=1&scene=1&srcid=1108KXT47jsSir7gXXN7x1yj&pass_ticket=5n8O9dw5nrNWdp91I1Ex8q0wFqwN7oHELYvWuTB%2BJGXvmM0y3ASvIhOn%2FU9zG29J#rd)  |  |
-| 2017-07| ![](images/ppt.png)  [O'Reilly 2017: "Introduction to Service Meshes"](https://www.slideshare.net/dbryant_uk/oreilly-2017-introduction-to-service-meshes)  | Daniel Bryant |  | 演讲的PPT |
+| 2017-07| ![](images/ppt.png)  [O'Reilly 2017: "Introduction to Service Meshes"](https://www.slideshare.net/dbryant_uk/oreilly-2017-introduction-to-service-meshes)  | Daniel Bryant | [PPT的中文版本](https://github.com/thomaslwq/publicfiles/tree/master) | 演讲的PPT |
 | 2017-04|   [What’s a service mesh? And why do I need one?](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)  |  William Morgan  | [什么是服务网格以及为什么我们需要服务网格？](http://www.infoq.com/cn/news/2017/11/WHAT-SERVICE-MESH-WHY-NEED) | 应该是业界第一篇详细介绍Service Mesh理念的文章，强烈推荐 |
-
 
 ## Istio
 
