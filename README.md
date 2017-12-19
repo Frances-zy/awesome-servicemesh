@@ -82,7 +82,7 @@ http://www.servicemesh.cn/
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
-| 2017-12 |   [Introducing Conduit](https://buoyant.io/2017/12/05/introducing-conduit/) ![](images/new_red.png) | William Morgan | [Conduit登场](http://blog.csdn.net/hty46565/article/details/78179005) | conduit第一次亮相 |
+| 2017-12 |   [Introducing Conduit](https://buoyant.io/2017/12/05/introducing-conduit/) ![](images/new_red.png) | William Morgan | [Conduit登场](http://blog.fleeto.us/translation/introducing-conduit) | conduit第一次亮相 |
 
 ## Nginmesh
 
