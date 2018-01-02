@@ -98,8 +98,6 @@ http://www.servicemesh.cn/
 
 ## Nginmesh
 
-> 备注：nginmesh自从9月份之后，连续三个月github没有提交，状况不明。
-
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
 | 2017-09 |   [NGINX Releases Microservices Platform, OpenShift Ingress Controller, and Service Mesh Preview](https://www.infoq.com/news/2017/09/nginx-platform-service-mesh)  | Daniel Bryant | [NGINX 发布微服务平台、OpenShift Ingress Controller 和Service Mesh预览版](http://www.infoq.com/cn/news/2017/09/nginx-platform-service-mesh) | _ |
