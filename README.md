@@ -13,19 +13,6 @@ Service Mesh是一个新兴的技术，资料相对比较少，为了便于收�
 - [下载mobi格式](https://www.gitbook.com/download/mobi/book/servicemesh/awesome-servicemesh)
 - [下载epub格式](https://www.gitbook.com/download/epub/book/servicemesh/awesome-servicemesh)
 
-## Service Mesh中文网
-
-[Service Mesh中文网](http://www.servicemesh.cn/)是由Service Mesh中国社区发起成立的公益性纯技术交流网站，访问地址：
-
-http://www.servicemesh.cn/
-
-> 注：由于国家政策的要求，网站备案时已经无法再使用诸如"中国"/"社区"等字眼，所以原定名称"Service Mesh中国社区"被迫修改为"Service Mesh中文网"。
-
-为了方便社区交流，我们建立了微信技术讨论群，有意加入请联系微信id `xiaoshu062` ，注明"service mesh"或者"服务网格"，目前：
-
-- 1群/2群500人已满
-- 3群/4群超过400人
-
 ## Awesome Service Mesh
 
 - [Service Mesh](#servicemesh)
